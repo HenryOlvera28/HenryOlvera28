@@ -1,4 +1,4 @@
-<h1 style="color: #ff5733;">Mi Sitio Personal</h1>
+# Mi Sitio Personal
 
 Bienvenido a mi repositorio personal. Aquí podrás encontrar información sobre mí, mis proyectos, mis intereses, y mucho más.
 
@@ -9,7 +9,7 @@ Bienvenido a mi repositorio personal. Aquí podrás encontrar información sobre
 - [Intereses](#intereses)
 - [Contacto](#contacto)
 
-<h2 style="color: #4287f5;">Información Personal</h2>
+## Información Personal
 
 * **Nombre**: [Tu Nombre]  
 * **Ocupación**: [Tu Ocupación]  
@@ -17,19 +17,37 @@ Bienvenido a mi repositorio personal. Aquí podrás encontrar información sobre
 * **Correo Institucional**: [Tu Correo Institucional]  
 * **Sitio Web**: [Tu Sitio Web]  
 
-<h2 style="color: #34a853;">Proyectos</h2>
+## Proyectos
 
 A continuación, te presento algunos de mis proyectos más relevantes. Haz clic en los enlaces para acceder a los repositorios y ver más detalles.
 
-<h3 style="color: #fbbc05;">1. [Nombre del Proyecto 1](enlace-a-tu-repositorio)</h3>
+### 1. [Nombre del Proyecto 1](enlace-a-tu-repositorio)
 * **Descripción**: Breve descripción del proyecto, objetivos y lo que resuelve.
-* **Tecnologías utilizadas**: [Lista de tecnologías]
+* **Tecnologías utilizadas**: [Lista de tecnologías, e.g., Python, React, Node.js, etc.]
 * **Estado**: [En progreso / Finalizado / En mantenimiento]
 * **Captura de pantalla**:  
   ![Captura de pantalla del proyecto 1](enlace-a-captura.jpg)
 * **Enlace de demostración**: [Enlace a la versión en vivo o demo](enlace-a-demo)
+  
+### 2. [Nombre del Proyecto 2](enlace-a-tu-repositorio)
+* **Descripción**: Breve descripción del proyecto, objetivos y lo que resuelve.
+* **Tecnologías utilizadas**: [Lista de tecnologías]
+* **Estado**: [En progreso / Finalizado / En mantenimiento]
+* **Captura de pantalla**:  
+  ![Captura de pantalla del proyecto 2](enlace-a-captura.jpg)
+* **Enlace de demostración**: [Enlace a la versión en vivo o demo](enlace-a-demo)
 
-<h2 style="color: #34a853;">Intereses</h2>
+### 3. [Nombre del Proyecto 3](enlace-a-tu-repositorio)
+* **Descripción**: Breve descripción del proyecto, objetivos y lo que resuelve.
+* **Tecnologías utilizadas**: [Lista de tecnologías]
+* **Estado**: [En progreso / Finalizado / En mantenimiento]
+* **Captura de pantalla**:  
+  ![Captura de pantalla del proyecto 3](enlace-a-captura.jpg)
+* **Enlace de demostración**: [Enlace a la versión en vivo o demo](enlace-a-demo)
+
+> **Nota**: Asegúrate de actualizar los enlaces de demostración, repositorios y las capturas de pantalla para reflejar tu trabajo más reciente.
+
+## Intereses
 
 A continuación, te comparto algunos de mis principales intereses, tanto profesionales como personales:
 
@@ -39,6 +57,6 @@ A continuación, te comparto algunos de mis principales intereses, tanto profesi
 * **Música**: Disfruto de aprender nuevos instrumentos y explorar diferentes géneros musicales.
 * **Fotografía**: Capturar momentos únicos y jugar con la luz es una de mis pasiones.
 
-<h2 style="color: #fbbc05;">Contacto</h2>
+## Contacto
 
 Si quieres ponerte en contacto conmigo, no dudes en enviarme un correo a [tu-correo@institucional.com].
