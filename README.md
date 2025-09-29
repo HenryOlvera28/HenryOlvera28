@@ -6,10 +6,10 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Henry Olvera
+* Ocupación: Estudiante de ESPOL
+* Lugar de residencia: Colinas de la Florida 2
+* Sitio web: 
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
