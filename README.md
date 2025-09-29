@@ -11,10 +11,10 @@ Bienvenido a mi repositorio personal. Aquí podrás encontrar información sobre
 
 ## Información Personal
 
-* **Nombre**: [Tu Nombre]  
-* **Ocupación**: [Tu Ocupación]  
-* **Lugar de Residencia**: [Tu Lugar de Residencia]  
-* **Correo Institucional**: [Tu Correo Institucional]  
+* **Nombre**: Henry Olvera  
+* **Ocupación**: Estudiante de ESPOL  
+* **Lugar de Residencia**: Colinas de la florida 2  
+* **Correo Institucional**: holvera@espol.edu.ec  
 * **Sitio Web**: [Tu Sitio Web]  
 
 ## Proyectos
@@ -45,6 +45,14 @@ A continuación, te presento algunos de mis proyectos más relevantes. Haz clic 
   ![Captura de pantalla del proyecto 3](enlace-a-captura.jpg)
 * **Enlace de demostración**: [Enlace a la versión en vivo o demo](enlace-a-demo)
 
+### 4. [Nombre del Proyecto 1](enlace-a-tu-repositorio)
+* **Descripción**: Breve descripción del proyecto, objetivos y lo que resuelve.
+* **Tecnologías utilizadas**: [Lista de tecnologías, e.g., Python, React, Node.js, etc.]
+* **Estado**: [En progreso / Finalizado / En mantenimiento]
+* **Captura de pantalla**:  
+  ![Captura de pantalla del proyecto 4](enlace-a-captura.jpg)
+* **Enlace de demostración**: [Enlace a la versión en vivo o demo](enlace-a-demo)
+
 > **Nota**: Asegúrate de actualizar los enlaces de demostración, repositorios y las capturas de pantalla para reflejar tu trabajo más reciente.
 
 ## Intereses
@@ -54,9 +62,9 @@ A continuación, te comparto algunos de mis principales intereses, tanto profesi
 * **Desarrollo Web**: Me apasiona crear aplicaciones interactivas y eficientes.
 * **Inteligencia Artificial**: Me gusta investigar sobre cómo la IA puede transformar distintas industrias.
 * **Educación y Tecnología**: Estoy interesado en cómo la tecnología puede mejorar el acceso a la educación.
-* **Música**: Disfruto de aprender nuevos instrumentos y explorar diferentes géneros musicales.
+* **Música**: Disfruto de explorar diferentes géneros musicales.
 * **Fotografía**: Capturar momentos únicos y jugar con la luz es una de mis pasiones.
 
 ## Contacto
 
-Si quieres ponerte en contacto conmigo, no dudes en enviarme un correo a [tu-correo@institucional.com].
+Si quieres ponerte en contacto conmigo, no dudes en enviarme un correo a holvera@espol.edu.ec o henrymoises2815@gmail.com
