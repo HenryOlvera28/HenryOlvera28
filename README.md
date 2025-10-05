@@ -20,32 +20,28 @@ Bienvenido a mi repositorio personal. Aquí podrás encontrar información sobre
 
 A continuación, te presento algunos de mis proyectos más relevantes. Haz clic en los enlaces para acceder a los repositorios y ver más detalles.
 
-### 1. [Nombre del Proyecto 1](https://github.com/Reload2704/Taller01-Snake)
-* **Descripción**: Breve descripción del proyecto, objetivos y lo que resuelve.
-* **Tecnologías utilizadas**: [Lista de tecnologías, e.g., Python, React, Node.js, etc.]
-* **Estado**: [En progreso / Finalizado / En mantenimiento]
+### 1. [Taller01-Snake](https://github.com/Reload2704/Taller01-Snake)
+* **Descripción**: En este repositorio se encuentra un taller donde se practicó el uso de github con visual studio code.
+* **Tecnologías utilizadas**: Java, python, git.
+* **Estado**: Finalizado
   
-### 2. [Nombre del Proyecto 2](enlace-a-tu-repositorio)
-* **Descripción**: Breve descripción del proyecto, objetivos y lo que resuelve.
-* **Tecnologías utilizadas**: [Lista de tecnologías]
-* **Estado**: [En progreso / Finalizado / En mantenimiento]
-* **Captura de pantalla**:  
-  ![Captura de pantalla del proyecto 2](enlace-a-captura.jpg)
-* **Enlace de demostración**: [Enlace a la versión en vivo o demo](enlace-a-demo)
+### 2. [Tarea04_Refactoring](https://github.com/JairPalaguachi/Tarea04_Refactoring)
+* **Descripción**: En este repositorio se encuentra un código funcional el cual paso por diferentes procesos de refactoring para eliminar los conocidos code smell.
+* **Tecnologías utilizadas**: Java, github, conocimientos de refactoring.
+* **Estado**: Finalizado
 
-### 3. [Nombre del Proyecto 3](enlace-a-tu-repositorio)
-* **Descripción**: Breve descripción del proyecto, objetivos y lo que resuelve.
-* **Tecnologías utilizadas**: [Lista de tecnologías]
-* **Estado**: [En progreso / Finalizado / En mantenimiento]
-* **Captura de pantalla**:  
-  ![Captura de pantalla del proyecto 3](enlace-a-captura.jpg)
-* **Enlace de demostración**: [Enlace a la versión en vivo o demo](enlace-a-demo)
+### 3. [ProyectoJava]([enlace-a-tu-repositorio](https://github.com/Kleito23/ProyectoJava))
+* **Descripción**: En este repositorio se encuentra el código de una aplicación llamda UNO el cual es un juego de cartas muy reconocido.
+* **Tecnologías utilizadas**: Java, Android studio, github.
+* **Estado**: Finalizado
+
 
 ## Intereses
 
 A continuación, te comparto algunos de mis principales intereses, tanto profesionales como personales:
 
 * **Desarrollo Web**: Me apasiona crear aplicaciones interactivas y eficientes.
+* **Python**: Me encanta la sintaxis de python, en especial al momento de crear programas que resuelvan algun problema matemático o de inventario que involucre matrices.
 * **Inteligencia Artificial**: Me gusta investigar sobre cómo la IA puede transformar distintas industrias.
 * **Educación y Tecnología**: Estoy interesado en cómo la tecnología puede mejorar el acceso a la educación.
 * **Música**: Disfruto de explorar diferentes géneros musicales.
