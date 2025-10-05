@@ -12,22 +12,18 @@ Bienvenido a mi repositorio personal. Aquí podrás encontrar información sobre
 ## Información Personal
 
 * **Nombre**: Henry Olvera  
-* **Ocupación**: Estudiante de ESPOL  
+* **Ocupación**: Estudiante de computación en ESPOL  
 * **Lugar de Residencia**: Colinas de la florida 2  
 * **Correo Institucional**: holvera@espol.edu.ec  
-* **Sitio Web**: [Tu Sitio Web]  
 
 ## Proyectos
 
 A continuación, te presento algunos de mis proyectos más relevantes. Haz clic en los enlaces para acceder a los repositorios y ver más detalles.
 
-### 1. [Nombre del Proyecto 1](enlace-a-tu-repositorio)
+### 1. [Nombre del Proyecto 1](https://github.com/Reload2704/Taller01-Snake)
 * **Descripción**: Breve descripción del proyecto, objetivos y lo que resuelve.
 * **Tecnologías utilizadas**: [Lista de tecnologías, e.g., Python, React, Node.js, etc.]
 * **Estado**: [En progreso / Finalizado / En mantenimiento]
-* **Captura de pantalla**:  
-  ![Captura de pantalla del proyecto 1](enlace-a-captura.jpg)
-* **Enlace de demostración**: [Enlace a la versión en vivo o demo](enlace-a-demo)
   
 ### 2. [Nombre del Proyecto 2](enlace-a-tu-repositorio)
 * **Descripción**: Breve descripción del proyecto, objetivos y lo que resuelve.
@@ -44,16 +40,6 @@ A continuación, te presento algunos de mis proyectos más relevantes. Haz clic 
 * **Captura de pantalla**:  
   ![Captura de pantalla del proyecto 3](enlace-a-captura.jpg)
 * **Enlace de demostración**: [Enlace a la versión en vivo o demo](enlace-a-demo)
-
-### 4. [Nombre del Proyecto 1](enlace-a-tu-repositorio)
-* **Descripción**: Breve descripción del proyecto, objetivos y lo que resuelve.
-* **Tecnologías utilizadas**: [Lista de tecnologías, e.g., Python, React, Node.js, etc.]
-* **Estado**: [En progreso / Finalizado / En mantenimiento]
-* **Captura de pantalla**:  
-  ![Captura de pantalla del proyecto 4](enlace-a-captura.jpg)
-* **Enlace de demostración**: [Enlace a la versión en vivo o demo](enlace-a-demo)
-
-> **Nota**: Asegúrate de actualizar los enlaces de demostración, repositorios y las capturas de pantalla para reflejar tu trabajo más reciente.
 
 ## Intereses
 
